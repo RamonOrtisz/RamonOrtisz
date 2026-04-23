@@ -1,52 +1,116 @@
-<h2 align="center">👩🏻‍💻 Olá, sou Ramon Galdino. Sou estudante e amante da tecnologia! 👩🏻‍💻</h2>
-<div >
-  <h4 align="center">
-    🌐 Comecei na programação em 2025, e estou em busca de me desenvolver dia após dia,<br>
-gosto de desafios, pois cada um deles vem com um grande aprendizado e <br>
-uma chande de crescer semana após semana.💡
-  </h4>
+<div>
+  <h1 style="justify-content: center; display: flex;">Ramon Galdino da Silva</h1>
+
+  <h3 style="justify-content: center; display: flex; color: #2FCCC7">Desenvolvedor FullStack</h3>
 </div>
 
+Olá, Seja Bem-vindo(a)!
 
-<div align="center">
-  <h3>Languages & Tools</h3>
-   <div style="display: inline_block">
-    <img align="center" alt="Ramon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ramon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ramon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<!--     <img align="center" alt="Ramon-Bootstrap" height="40" width="45" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> -->
-    <img align="center" alt="Ramon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <!-- <img align="center" alt="Ramon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-    <!-- <img align="center" alt="Ramon-Python" height="30" width="40" src="https://icongr.am/devicon/django-plain.svg?size=121&color=ffffff"> -->
-    <img align="center" alt="Ramon-Redux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-    <img align="center" alt="Ramon-figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  />
-    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-          
-   </div>
-  <!--
-    <img align="center" alt="Cah-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
-    <img align="center" alt="Cah-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img align="center" alt="Cah-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
-    <img align="center" alt="Luccas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Luccas-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-    <img alt="mong-db" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> --!>
-  
-</div>
+Me chamo Ramon, tenho 24 anos e conheci a programação em 2024 e iniciei meus estudos de forma autodidata. Nesse período, busquei aprender por meio de vídeos e cursos online enquanto atuava de forma autônoma, o que me proporcionou contato prático com a área, mas também trouxe frustrações por não ter, naquele momento, uma base sólida nos fundamentos da computação e do desenvolvimento de software.
 
-##
+Com essa vivência, percebi a importância de construir conhecimento de forma estruturada e aprofundada. Por isso, no final de 2025, decidi ingressar na graduação em Engenharia de Software, com o objetivo de compreender melhor os fundamentos, boas práticas, arquitetura de sistemas e o raciocínio por trás das soluções tecnológicas.
 
-<div align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=RamonOrtisz&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonOrtisz&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-</div>
+Atualmente, sigo estudando e praticando tecnologias como Java, React, Node.js e MySQL, buscando não apenas aprender ferramentas, mas desenvolver uma base consistente que me permita evoluir tecnicamente. Tenho como objetivo me tornar um profissional capaz de lidar com projetos mais complexos, contribuir de forma significativa em equipe e crescer continuamente, tanto no aspecto profissional quanto pessoal.
 
-<h2 align="center">Atualmente estou estudando e desenvolvendo projetos para meu Portfólio</h2>
- 
-<div align="center">
-  🧑🏽‍💻 Meu Perfil no Linkedin <br>👇
-  <br>
-  <a href="https://www.linkedin.com/in/ramon-ortiz-956493238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+Rede [Linkedin](https://www.linkedin.com/in/ramon-rgs/)
+
+---
+### 🤖 Linguagens e Tecnologias
+
+  <img 
+      align="left" 
+      alt="HTML"
+      title="HTML" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="CSS" 
+      title="CSS"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="mysql" 
+      title="mysql"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+  />
+  <img 
+      align="left" 
+      alt="Java" 
+      title="Java"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  />
+  <img 
+      align="left" 
+      alt="TypeScript"
+      title="TypeScript" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="React"
+      title="React" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />
+  <img 
+      align="left" 
+      alt="Tailwind" 
+      title="Tailwind"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+  />
+
+  <img 
+      align="left" 
+      alt="Git" 
+      title="Git"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
